@@ -11,8 +11,8 @@ The display and code for Paper “Echocardiography-based AI for Detection and Me
 
 ## SC2A
 
-![image](https://github.com/YixinChen-AI/ASD-AtrialSeptalDefect/blob/main/sample%20gif/SC2A1.gif)
+![image](https://github.com/YixinChen-AI/ASD-AtrialSeptalDefect/blob/main/sample%20gif/sc2a1.gif)
 
 ## SC4C
 
-![image](https://github.com/YixinChen-AI/ASD-AtrialSeptalDefect/blob/main/sample%20gif/SC4C3.gif)
+![image](https://github.com/YixinChen-AI/ASD-AtrialSeptalDefect/blob/main/sample%20gif/sc4c3.gif)
